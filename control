@@ -1,0 +1,9 @@
+Package: libswiftconcurrency5
+Name: libSwiftConcurrency
+Version: 5.5.2
+Author: Amy While <me@anamy.gay>
+Maintainer: Amy While <me@anamy.gay>
+Description: libSwift_Concurrency.dylib
+Architecture: iphoneos-arm
+Depends: firmware (>= 13.0), firmware (<< 15.0)
+Section: Development
